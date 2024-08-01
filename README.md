@@ -49,3 +49,13 @@ After importing the data into a Schema in MySQL Workbench I took notice that col
 <h3> Gender Relevance</h3>
 <img src="slide_three.jpg" alt="Gender Relevance">
 <p><i>Gender is not relevant for sales</i></p>
+</br>
+</br>
+<h2>Counclusion</h2>
+<ol>
+ <li>United States</li>
+ <li>Adventure Works Desktop PC2.30 XD233 Black</li>
+ <li>Approximately 61 Million</li>
+ <li>No, with a difference of less than 1%</li>
+ <li>Using the clause WHERE when querying you can filter only the product you desire</li>
+</ol>
