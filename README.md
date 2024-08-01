@@ -16,3 +16,16 @@ The data consists of 5 different tables with 1 Excel dictionary. </h4>
  <br>
 With so much data available I would come up with very interesting insights.
 </p>
+<h2>Data Cleaning</h2>
+<p>
+ <h3>Power BI</h3>
+When transforming the date columns I had to explicitly change the format from American to UK otherwise I would be getting errors.
+Dealing with price columns I had to remove dollar signs before I could change the column data type to float.
+A few tables came with a bad format where the first row was the title for the columns so I used the Power BI option to set the first row as the column header.
+Different countries have different formats for their zip codes so I wouldn’t use this column in any visualization so I deleted it.
+</p>
+ <h3>MySQL</h3>
+<p>
+After importing the data into a Schema in MySQL Workbench I took notice that column headers had space in their names and this would cause many problems so I went on and replaced every space with an underscore.
+
+</p>
