@@ -1,4 +1,4 @@
-<h1> Global Eletronics Dashboard </h1>
+<h1> Global Electronics Dashboard </h1>
  
 <h4>The data was downloaded from the Maven Analytics website under the data playground section.
  <br>
@@ -39,3 +39,4 @@ After importing the data into a Schema in MySQL Workbench I took notice that col
 <li>How to query every piece of information from a specific product?
 </ol>
 </p>
+<img src="slide_one.jpg" alt="Correlation Country/Sales">
