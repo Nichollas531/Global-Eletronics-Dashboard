@@ -29,3 +29,13 @@ Different countries have different formats for their zip codes so I wouldn’t u
 After importing the data into a Schema in MySQL Workbench I took notice that column headers had space in their names and this would cause many problems so I went on and replaced every space with an underscore.
 
 </p>
+<h2>Key Questions</h2>
+<p>
+<ol>
+<li>Which country is the leading in sales? 
+<li>What is the top seller?
+<li>How many items in total were sold?
+<li>Is gender a relevant parameter for sales?
+<li>How to query every piece of information from a specific product?
+</ol>
+</p>
