@@ -40,3 +40,7 @@ After importing the data into a Schema in MySQL Workbench I took notice that col
 </ol>
 </p>
 <img src="slide_one.jpg" alt="Correlation Country/Sales">
+<img src="slide_two.jpg" alt="Top seller product">
+<img src="slide_three.jpg" alt="Gender Relevance">
+<img src="slide_four.jpg" alt="SQL queries part1">
+<img src="slide_fifth.jpg" alt="SQL queries part2">
