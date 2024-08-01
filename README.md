@@ -1,6 +1,6 @@
-# Global-Eletronics-Dashboard
-
-###The data was downloaded from the Maven Analytics website under the data playground section
+<h1> Global Eletronics Dashboard </h1>
+ 
+The data was downloaded from the Maven Analytics website under the data playground section
 ###The data consists of 5 different tables with 1 Excel dictionary
 - Customers.csv
 - Exchange_Rates.csv
