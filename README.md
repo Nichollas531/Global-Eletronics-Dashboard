@@ -52,6 +52,9 @@ After importing the data into a Schema in MySQL Workbench I took notice that col
 </br>
 </br>
 <h2>Counclusion</h2>
+<h4>Here is what I found from carrying out this analysis. </br>
+Answers to the questions posed in the introduction:
+</h4>
 <ol>
  <li>United States</li>
  <li>Adventure Works Desktop PC2.30 XD233 Black</li>
