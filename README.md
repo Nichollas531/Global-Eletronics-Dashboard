@@ -39,8 +39,13 @@ After importing the data into a Schema in MySQL Workbench I took notice that col
 <li>How to query every piece of information from a specific product?
 </ol>
 </p>
+<h2> Dashboard Summary</h2>
+<h3> Correlation Country/Sales</h3>
 <img src="slide_one.jpg" alt="Correlation Country/Sales">
+<p><i>The United States is the leading country in sales</i></p>
+<h3> Top Seller Product</h3>
 <img src="slide_two.jpg" alt="Top seller product">
+<p><i>Approximately 61 million sales in total</i></p>
+<h3> Gender Relevance</h3>
 <img src="slide_three.jpg" alt="Gender Relevance">
-<img src="slide_fourth.jpg" alt="SQL queries part1">
-<img src="slide_fifth.jpg" alt="SQL queries part2">
+<p><i>Gender is not relevant for sales</i></p>
